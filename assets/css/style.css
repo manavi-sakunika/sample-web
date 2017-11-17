@@ -349,7 +349,7 @@ Separator
     height: 2px;
     width: 30px;
     margin:20px 0px;
-    background: #f38181;
+    background: #3c67e7;
 }
 
 
@@ -872,7 +872,7 @@ input::-ms-input-placeholder {
 }
 button.btn-md:focus, .btn:active:focus, .btn.active:focus, .btn.focus, .btn:active.focus, .btn.active.focus{
     outline:none;
-    color:#e74c3c;
+    color:#3c67e7;
 }
 button.btn-md {
     text-align: center;
@@ -884,7 +884,7 @@ button.btn-md {
     margin-top: 0px;
     background-color: transparent;
     transition: .5s;
-    border: 0px solid #e74c3c;
+    border: 0px solid #3c67e7;
     font-family: 'montserratregular';
 }
 button.btn-md:hover {
